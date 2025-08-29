@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Yash Borekar 👋</h1>
-  [cite_start]<p>A Full Stack Developer passionate about building modern web applications and integrating AI technologies. [cite: 1, 11] [cite_start]I have experience creating scalable backends and responsive frontends using the MERN stack. [cite: 20, 27]</p>
+  <p>A Full Stack Developer passionate about building modern web applications and integrating AI technologies.I have experience creating scalable backends and responsive frontends using the MERN stack.</p>
 </div>
 
 <div align="center">
@@ -68,9 +68,9 @@ Here are some of the projects I've worked on.
 <details>
 <summary><strong>🎨 ArtMind | MERN Stack AI Image Generation Platform</strong></summary>
 <br>
-[cite_start]<p>A full-stack AI platform that allows users to generate high-quality images from text prompts using the Hugging Face Stable Diffusion API. [cite: 20, 22] [cite_start]It features a community gallery for sharing artwork, Cloudinary for image storage, and a scalable Node.js backend. [cite: 23, 24, 25]</p>
+]<p>A full-stack AI platform that allows users to generate high-quality images from text prompts using the Hugging Face Stable Diffusion API.It features a community gallery for sharing artwork, Cloudinary for image storage, and a scalable Node.js backend. </p>
 <p>
-  [cite_start]<strong>Tech:</strong> React, Node.js, Express, MongoDB, Tailwind CSS, Hugging Face API, Cloudinary [cite: 20, 24, 25]
+  <strong>Tech:</strong> React, Node.js, Express, MongoDB, Tailwind CSS, Hugging Face API, Cloudinary 
 </p>
 <p>
   <a href="https://github.com/YashBorekar/ArtMind-AI-image-generator"><strong>GitHub Repo</strong></a> | <a href="https://art-mind-ai-image-generator.vercel.app/"><strong>Live Demo</strong></a>
@@ -80,9 +80,9 @@ Here are some of the projects I've worked on.
 <details>
 <summary><strong>🩺 MediConnect | MERN Stack Telemedicine Platform</strong></summary>
 <br>
-[cite_start]<p>A comprehensive telemedicine platform for virtual doctor consultations, appointment booking, and secure messaging. [cite: 27] [cite_start]Features include real-time video/audio calls (PeerJS), an AI-powered symptom checker (OpenAI API), and role-based authentication. [cite: 28, 29]</p>
+<p>A comprehensive telemedicine platform for virtual doctor consultations, appointment booking, and secure messaging. Features include real-time video/audio calls (PeerJS), an AI-powered symptom checker (OpenAI API), and role-based authentication. </p>
 <p>
-  [cite_start]<strong>Tech:</strong> React, TypeScript, Node.js, Express, PostgreSQL, JWT, OpenAI API, PeerJS, Tailwind CSS [cite: 27, 28, 30]
+  <strong>Tech:</strong> React, TypeScript, Node.js, Express, PostgreSQL, JWT, OpenAI API, PeerJS, Tailwind CSS 
 </p>
 <p>
   <a href="https://github.com/YashBorekar/mediconnect"><strong>GitHub Repo</strong></a> | <a href="https://mediconnect-vxhp.onrender.com/"><strong>Live Demo</strong></a>
