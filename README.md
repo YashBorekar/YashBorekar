@@ -18,7 +18,6 @@ Here are the languages, frameworks, and tools I'm proficient with:
   <tr>
     <td align="center"><strong>Languages</strong></td>
     <td>
-      
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -30,7 +29,6 @@ Here are the languages, frameworks, and tools I'm proficient with:
     <td align="center"><strong>Frontend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-      
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
     </td>
   </tr>
@@ -39,14 +37,12 @@ Here are the languages, frameworks, and tools I'm proficient with:
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-      
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Databases</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      
     </td>
   </tr>
   <tr>
